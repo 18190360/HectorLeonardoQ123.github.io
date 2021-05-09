@@ -1,0 +1,275 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+#encabezados{
+	background: #2F9340;
+	text-align: center;
+	font-family: Cooper Black;
+	
+}
+#general{
+	width: 95%;
+	margin: auto;
+	height: 1200px;
+	
+	
+}
+#izquierda{
+	width: 80%;
+	float: left;
+	
+}
+#Bill{
+	margin: auto;
+	display: block;
+	height: 400px;
+	width: 500px;
+	
+}
+section{
+	text-align: justify;
+	font-family: Broadway;
+	width: 80%;
+	color: #C30B32;
+	
+}
+#Origen{
+	text-align: center;
+	font-family: Times New Roman;
+	color: #057300;
+	
+
+}
+#derecha{
+	width: 20%;
+	float: right;
+	
+}
+article{
+	text-align: justify;
+	font-family: Comic Sans MS;
+	color: #057300;
+	
+	
+}
+h3{
+	color: #DE2353;
+	text-align: center;
+	
+	
+}
+#estudios{
+	width: 250px;
+	height: 200px;
+	margin: auto;
+	display: block;
+	
+}
+#primero{
+	color: #5FCE1B;
+	font-family: Comic Sans;
+	
+}
+#video{
+	text-align: center;
+	
+	
+}
+footer{
+	font-family: Comic Sans MS;
+	color: #CED814;
+	background: #242512;
+	
+	
+nav ul li a {
+	color: #08B7CB;
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-size: medium;
+	
+}
+#pecas{
+	background: url(imagenes/mac.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	
+}
+#encabezado1{
+	background: #30E6F5;
+	text-align: center;
+	font-family: Cooper Black;
+	
+	
+}
+#todo{
+	width: 95%;
+	margin: auto;
+	height: 1200px;
+	
+	
+}
+table{
+	width: 100%;
+	
+}
+table, th, td{
+	border: 2px solid white;
+	border-collapse: collapse;
+	
+}
+th, td{
+	padding: 10px;
+	
+}
+#apo{
+	color: #CBB308;
+	text-align: center;
+	font-family: Comic Sans MS;
+	
+}
+#Descripción{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: #306CF5;
+
+
+#desc{
+	color: #091900;
+	font-family: Times New Roman;
+
+
+}
+#desc2{
+	font-family: Times New Roman;
+	color: #091900;
+
+
+}
+#desc3{
+	font-family: Times New Roman;
+	color: #091900;
+
+
+}
+#desc4{
+	font-family: Times New Roman;
+	color: #091900;
+
+
+}
+#desc5{
+	font-family: Times New Roman;
+	color: #091900;
+
+
+}
+#desc6{
+	font-family: Times New Roman;
+	color: #091900;
+
+
+}
+#fotos{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color: #287200;
+	
+}
+#MsDos{
+	color: green;
+	
+
+}
+#SurfaceLaptop{
+	font-family: Times New Roman;
+	color: #3E6B27;
+	
+}
+#Windows3.1{
+	font-family: Times New Roman;
+	color: #2A7A00;
+	
+}
+#Windows7{
+	font-family: Times New Roman;
+	color: #254315;
+	
+	
+}
+#WindowsXp{
+	font-family: Times New Roman;
+	color: #256800;
+	
+}
+#XboxSeriesX{
+	font-family: Times New Roman;
+	color: #20410E;
+  
+  body {
+    font: 13px/1.85em 'Open Sans', Arial, Helvetice Neue, sans-serif;
+    color: #888888;
+    font-weight: 300;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+ /* Fix for webkit rendering */
+    -webkit-text-size-adjust: 100%;
+    background: #282828;
+}
+
+.templatemo_contacttitle {
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+}
+
+.templatemo_contact {
+    margin: 30px;
+    width: 100%;
+    margin-left: 15%;
+}
+
+.templatemo_contactform input, textarea {
+    width: 100%;
+    background: #282828;
+    border: 1px solid #393939;
+    padding: 7px 10px;
+    margin: 0px 0px 10px 0px;
+    background-color: #FAFAFA;
+  
+}
+  
+
+.templatemo_contactform textarea {
+    height: 100px;
+  
+}
+  
+
+
+.templatemo_contactform .btn-primary {
+    background: #92bf24;
+    border: none;
+    border-radius: 0px;
+    color: #3d5602;
+    font-weight: 800;
+  
+}
+
+  
+.templatemo_contactform .btn-primary:hover {
+    background: #a6d82c;
+  
+}
+  
+  
+  
+  
+  
+	
+	
+}
